@@ -12,8 +12,8 @@ var templateNav = `
     <div class="nav">
         <div class="menu">
             <a class="menu-item" href="../">home</a>
-            <a class="menu-item" href="/works">works</a>
-            <a class="menu-item" href="/portfolio">portfolio</a>
+            <a class="menu-item" href="../works">works</a>
+            <a class="menu-item" href="../portfolio">portfolio</a>
         </div>
     </div>`;
 
