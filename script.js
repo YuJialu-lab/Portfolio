@@ -45,7 +45,7 @@ window.onload = function (e) {
     const documents = [{
             name: "cv and skills",
             icon: "me.svg",
-            url: "/portfolio",
+            url: "/cv",
         },
         {
             name: "send email",
