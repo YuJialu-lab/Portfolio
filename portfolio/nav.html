@@ -1,0 +1,38 @@
+<html><head></head>
+	<style>/* --------- navigation -------- */ nav .iconmenu { width: 40px; height: 40px; margin: 25px; position: fixed; z-index: 4; cursor: pointer; right: 0; } @media (max-width: 799px) { nav .iconmenu { margin: 10px; } } nav .iconmenu .iconopen { position: relative; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-align: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; width: 100%; height: 100%; background-color: #f9f9f9; border-radius: 100%; } nav .iconmenu .iconopen span { position: absolute; width: 20px; height: 2px; border-radius: 20px; -webkit-transition: all 0.3s ease; transition: all 0.3s ease; background-color: #8539BE; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-align: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; } nav .iconmenu .iconopen span:before, nav .iconmenu .iconopen span:after { position: absolute; content: ''; width: 20px; height: 100%; background-color: inherit; } nav .iconmenu .iconopen span:before { -webkit-transition: all 0.3s ease; transition: all 0.3s ease; -webkit-transform: translateY(-6px); transform: translateY(-6px); } nav .iconmenu .iconopen span:after { -webkit-transition: all 0.4s ease; transition: all 0.4s ease; -webkit-transform: translateY(6px); transform: translateY(6px); } nav .iconmenu .iconopen.close { -webkit-transition: all 0.3s ease; transition: all 0.3s ease; background-color: transparent; } nav .iconmenu .iconopen.close span { background-color: #ccc; width: 0px; } nav .iconmenu .iconopen.close span:before { width: 20px; -webkit-transform: rotate(45deg); transform: rotate(45deg); } nav .iconmenu .iconopen.close span:after { width: 20px; -webkit-transform: rotate(-45deg); transform: rotate(-45deg); } nav .iconmenu:hover .iconopen span:before { width: 16px; } @media (max-width: 799px) { nav .iconmenu:hover .iconopen span:before { width: 20px; } } nav .iconmenu:hover .iconopen span:after { width: 16px; } @media (max-width: 799px) { nav .iconmenu:hover .iconopen span:after { width: 20px; } } nav .iconmenu:hover .iconopen.close span { background-color: #848484; } @media (max-width: 799px) { nav .iconmenu:hover .iconopen.close span { background-color: #ccc; } } nav .iconmenu:hover .iconopen.close span:before { width: 20px; } nav .iconmenu:hover .iconopen.close span:after { width: 20px; } nav .nav { background-color: white; margin: 0; width: 100%; height: 90px; position: fixed; top: -95px; -webkit-transition: all .5s ease-in; transition: all .5s ease-in; -webkit-box-shadow: 0px -10px 20px black; box-shadow: 0px -10px 20px black; z-index: 3; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-align: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; /*  // Menu List \\  */ } @media (max-width: 799px) { nav .nav { top: -65px; height: 60px; } } nav .nav.navshow { -webkit-transition: all .5s ease-out; transition: all .5s ease-out; top: 0; } nav .nav .menu { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-align: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; -ms-flex-wrap: wrap; flex-wrap: wrap; width: 100%; } nav .nav .menu .menu-item { color: #848484; list-style: none; width: 30%; min-width: 60px; max-width: 250px; letter-spacing: 4px; height: 50px; -webkit-transition: all 0.4s ease; transition: all 0.4s ease; position: relative; font-family: "Source Code Pro", monospace; font-weight: 400; font-size: 14px; display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-align: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; } @media (max-width: 799px) { nav .nav .menu .menu-item { width: 25%; min-width: 80px; font-size: 13px; letter-spacing: 2px; height: 30px; } } nav .nav .menu .menu-item:after { content: ''; width: 0%; height: 2px; border-radius: 20px; background-color: #8539BE; position: absolute; bottom: 0; -webkit-transition: all 0.4s ease; transition: all 0.4s ease; } nav .nav .menu .menu-item:hover { color: #8539BE; } @media (max-width: 799px) { nav .nav .menu .menu-item:hover { letter-spacing: 2px; color: #848484; } } nav .nav .menu .menu-item:hover:after { width: 35px; } @media (max-width: 799px) { nav .nav .menu .menu-item:hover:after { width: 0px; } } nav .nav .menu .menu-item.current { color: #8539BE; } nav .nav .menu .menu-item.current:after { width: 30px; } @media (max-width: 799px) { nav .nav .menu .menu-item.current:after { width: 20px; } }/* --------- End navigation -------- */
+	
+</style>
+<body>
+<!-- Navigation -->
+        <nav></nav>
+
+    <script src="navigation.js"></script>
+   
+
+    <script>    /* Open Menu bar */
+
+    var iconMenu = document.querySelector('.iconmenu'),
+        iconOpen = document.querySelector('.iconopen'),
+        navBar = document.querySelector('.nav');
+
+    iconMenu.addEventListener('click', openNav);
+
+    function openNav() {
+
+        if (iconOpen.classList.contains('close')) {
+            iconOpen.classList.remove('close');
+        } else {
+            iconOpen.classList.add('close');
+        }
+
+        if (navBar.classList.contains('navshow')) {
+            navBar.classList.remove('navshow');
+        } else {
+            navBar.classList.add('navshow');
+        }
+
+
+    };
+    /* end Open Menu bar */</script>
+	</body>
+</html>
