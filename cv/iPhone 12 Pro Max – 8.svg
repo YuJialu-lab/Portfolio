@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="926" viewBox="0 0 428 926">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3b3b3b"/>
+      <stop offset="1"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="0.957" y1="0.902" x2="0.5" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#393945"/>
+      <stop offset="0.261" stop-color="#31333e"/>
+      <stop offset="1" stop-color="#211f2a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.912" y1="0.079" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.502" stop-color="#fff" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.368" x2="0.711" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.505" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.651"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0.188" y1="0.086" x2="0.722" y2="0.96" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.448" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.749"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="0.912" y1="0.079" x2="0.5" y2="0.954" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.519" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.78"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1626b3"/>
+      <stop offset="0.696" stop-color="#274f68" stop-opacity="0.769"/>
+      <stop offset="1" stop-color="#244a60" stop-opacity="0"/>
+      <stop offset="1"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="0.408" cy="0.455" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#263643"/>
+      <stop offset="1" stop-color="#1f222b"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-9" x1="0.089" y1="0.79" x2="0.861" y2="0.173" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" x1="0.115" y1="0.807" x2="0.907" y2="0.206" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1c0df3"/>
+      <stop offset="1" stop-color="#07d7f5" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip-iPhone_12_Pro_Max_8">
+      <rect width="428" height="926"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_12_Pro_Max_8" data-name="iPhone 12 Pro Max – 8" clip-path="url(#clip-iPhone_12_Pro_Max_8)">
+    <rect width="428" height="926" fill="url(#radial-gradient)"/>
+    <g id="Gruppe_10" data-name="Gruppe 10">
+      <rect id="Rechteck_1" data-name="Rechteck 1" width="174.113" height="192.594" rx="17" transform="translate(28 477.28)" fill="url(#linear-gradient)"/>
+      <g id="Gruppe_1" data-name="Gruppe 1" transform="translate(85 521.184)">
+        <path id="Pfad_5" data-name="Pfad 5" d="M669.68,1343.84a10.84,10.84,0,1,1,10.84,10.84H631.573" transform="translate(-631.573 -1329.936)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="Pfad_6" data-name="Pfad 6" d="M661.708,1341.345a8.345,8.345,0,1,1,8.345,8.345H645.49" transform="translate(-645.49 -1333)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="Pfad_7" data-name="Pfad 7" d="M660.355,1341.345A8.345,8.345,0,1,0,668.7,1333H621.9" transform="translate(-621.902 -1300.008)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <text id="Air_extraction" data-name="Air extraction" transform="translate(52 605.676)" fill="#1362fb" font-size="18" font-family="MuseoSans-700, 'Museo Sans \37 00'" font-weight="700"><tspan x="-57.141" y="17">Air extraction</tspan></text>
+      <path id="Rechteck_3" data-name="Rechteck 3" d="M16.024,2.828a13.2,13.2,0,0,0-13.2,13.2V177.211a13.2,13.2,0,0,0,13.2,13.2H158.359a13.2,13.2,0,0,0,13.2-13.2V16.024a13.2,13.2,0,0,0-13.2-13.2H16.024m0-2.828H158.359a16.024,16.024,0,0,1,16.024,16.024V177.211a16.024,16.024,0,0,1-16.024,16.024H16.024A16.024,16.024,0,0,1,0,177.211V16.024A16.024,16.024,0,0,1,16.024,0Z" transform="translate(28 477.019)" fill="url(#linear-gradient-2)"/>
+      <text id="Active_air_purification" data-name="Active air purification" transform="translate(47 630.194)" fill="#fff" font-size="13" font-family="MuseoSans-700, 'Museo Sans \37 00'" font-weight="700" opacity="0.52"><tspan x="-65.201" y="12">Active air purification</tspan></text>
+    </g>
+    <g id="Gruppe_10-2" data-name="Gruppe 10" transform="translate(195)">
+      <rect id="Rechteck_1-2" data-name="Rechteck 1" width="174.113" height="192.594" rx="17" transform="translate(28 477.28)" fill="url(#linear-gradient)"/>
+      <text id="Wind" transform="translate(52 605.676)" fill="#1362fb" font-size="18" font-family="MuseoSans-700, 'Museo Sans \37 00'" font-weight="700"><tspan x="-22.113" y="17">Wind</tspan></text>
+      <path id="Rechteck_3-2" data-name="Rechteck 3" d="M16.024,2.828a13.2,13.2,0,0,0-13.2,13.2V177.211a13.2,13.2,0,0,0,13.2,13.2H158.359a13.2,13.2,0,0,0,13.2-13.2V16.024a13.2,13.2,0,0,0-13.2-13.2H16.024m0-2.828H158.359a16.024,16.024,0,0,1,16.024,16.024V177.211a16.024,16.024,0,0,1-16.024,16.024H16.024A16.024,16.024,0,0,1,0,177.211V16.024A16.024,16.024,0,0,1,16.024,0Z" transform="translate(28 477.019)" fill="url(#linear-gradient-4)"/>
+      <text id="Driver_Passenger" data-name="Driver&amp;Passenger" transform="translate(47 630.194)" fill="#fff" font-size="13" font-family="MuseoSans-700, 'Museo Sans \37 00'" font-weight="700" opacity="0.52"><tspan x="-54.093" y="12">Driver&amp;Passenger</tspan></text>
+    </g>
+    <g id="Gruppe_10-3" data-name="Gruppe 10" transform="translate(0 214)">
+      <rect id="Rechteck_1-3" data-name="Rechteck 1" width="174.113" height="192.594" rx="17" transform="translate(28 477.28)" fill="url(#linear-gradient)"/>
+      <text id="Phone_Call" data-name="Phone Call" transform="translate(52 605.676)" fill="#1362fb" font-size="18" font-family="MuseoSans-700, 'Museo Sans \37 00'" font-weight="700"><tspan x="-45.72" y="17">Phone Call</tspan></text>
+      <path id="Rechteck_3-3" data-name="Rechteck 3" d="M16.024,2.828a13.2,13.2,0,0,0-13.2,13.2V177.211a13.2,13.2,0,0,0,13.2,13.2H158.359a13.2,13.2,0,0,0,13.2-13.2V16.024a13.2,13.2,0,0,0-13.2-13.2H16.024m0-2.828H158.359a16.024,16.024,0,0,1,16.024,16.024V177.211a16.024,16.024,0,0,1-16.024,16.024H16.024A16.024,16.024,0,0,1,0,177.211V16.024A16.024,16.024,0,0,1,16.024,0Z" transform="translate(28 477.019)" fill="url(#linear-gradient-6)"/>
+      <text id="Actived" transform="translate(47 630.194)" fill="#fff" font-size="13" font-family="MuseoSans-700, 'Museo Sans \37 00'" font-weight="700" opacity="0.52"><tspan x="-22.815" y="12">Actived</tspan></text>
+    </g>
+    <g id="Gruppe_10-4" data-name="Gruppe 10" transform="translate(195 214)">
+      <rect id="Rechteck_1-4" data-name="Rechteck 1" width="174.113" height="192.594" rx="17" transform="translate(28 477.28)" fill="url(#linear-gradient)"/>
+      <text id="Doors" transform="translate(52 605.676)" fill="#fb1313" font-size="18" font-family="MuseoSans-700, 'Museo Sans \37 00'" font-weight="700"><tspan x="-25.506" y="17">Doors</tspan></text>
+      <path id="Rechteck_3-4" data-name="Rechteck 3" d="M16.024,2.828a13.2,13.2,0,0,0-13.2,13.2V177.211a13.2,13.2,0,0,0,13.2,13.2H158.359a13.2,13.2,0,0,0,13.2-13.2V16.024a13.2,13.2,0,0,0-13.2-13.2H16.024m0-2.828H158.359a16.024,16.024,0,0,1,16.024,16.024V177.211a16.024,16.024,0,0,1-16.024,16.024H16.024A16.024,16.024,0,0,1,0,177.211V16.024A16.024,16.024,0,0,1,16.024,0Z" transform="translate(28 477.019)" fill="url(#linear-gradient-8)"/>
+      <text id="One_opened" data-name="One opened" transform="translate(47 630.194)" fill="red" font-size="13" font-family="MuseoSans-700, 'Museo Sans \37 00'" font-weight="700" opacity="0.52"><tspan x="-37.661" y="12">One opened</tspan></text>
+      <g id="Gruppe_16" data-name="Gruppe 16" transform="translate(95.055 520.417)">
+        <rect id="Rechteck_5" data-name="Rechteck 5" width="40.274" height="31.324" transform="translate(0 21.835)" fill="none" stroke="red" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="Pfad_33" data-name="Pfad 33" d="M672,1351.589v-7.366a11.222,11.222,0,1,1,22.444,0v9.747" transform="translate(-663.085 -1333)" fill="none" stroke="red" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+    </g>
+    <line id="Linie_1" data-name="Linie 1" x2="33" transform="translate(362.5 46.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+    <line id="Linie_1-2" data-name="Linie 1" x2="23" transform="translate(372.5 53.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+    <line id="Linie_1-3" data-name="Linie 1" x2="33" transform="translate(362.5 60.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+    <text id="My_Smartcar" data-name="My Smartcar" transform="translate(28 29.5)" fill="#1362fb" font-size="20" font-family="MuseoSans-700, 'Museo Sans \37 00'" font-weight="700"><tspan x="0" y="19">My Smartcar</tspan></text>
+    <text id="Jialu_Yu" data-name="Jialu Yu" transform="translate(28 53.5)" fill="#fff" font-size="20" font-family="MuseoSans-700, 'Museo Sans \37 00'" font-weight="700" opacity="0.43"><tspan x="0" y="19">Jialu Yu</tspan></text>
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(324.165 515.86)" fill="none" stroke="#fff" stroke-width="3">
+      <ellipse cx="8.115" cy="8.115" rx="8.115" ry="8.115" stroke="none"/>
+      <ellipse cx="8.115" cy="8.115" rx="6.615" ry="6.615" fill="none"/>
+    </g>
+    <path id="Pfad_37" data-name="Pfad 37" d="M23.887,2.34,30.076,0,21.218,24.874,8.172,26.653-4.28,42.071-9.321,40,3.132,19.834l11.86-2.076Z" transform="translate(303.502 531.566)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Pfad_38" data-name="Pfad 38" d="M0,0H8.932V9" transform="translate(295.996 519.408) rotate(45)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <line id="Linie_2" data-name="Linie 2" x1="16.386" transform="translate(285.988 525.78)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+    <g id="Gruppe_11" data-name="Gruppe 11" transform="translate(-152.808 -67)">
+      <line id="Linie_17" data-name="Linie 17" y2="25.761" transform="translate(232.5 816.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+      <line id="Linie_18" data-name="Linie 18" y2="17.451" transform="translate(241.5 820.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+      <line id="Linie_19" data-name="Linie 19" y2="39.931" transform="translate(250.5 808.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+      <line id="Linie_20" data-name="Linie 20" y2="32.354" transform="translate(258.5 812.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+      <line id="Linie_21" data-name="Linie 21" y2="64.819" transform="translate(267.5 796.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+      <line id="Linie_22" data-name="Linie 22" y2="25.761" transform="translate(303.5 816.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+      <line id="Linie_23" data-name="Linie 23" y2="17.451" transform="translate(294.5 820.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+      <line id="Linie_24" data-name="Linie 24" y2="39.931" transform="translate(285.5 808.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+      <line id="Linie_25" data-name="Linie 25" y2="32.354" transform="translate(276.5 812.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <path id="Pfad_39" data-name="Pfad 39" d="M134,0A134,134,0,1,1,0,134,134,134,0,0,1,134,0Z" transform="translate(80 148)" fill="url(#radial-gradient-2)"/>
+    <circle id="Ellipse_6" data-name="Ellipse 6" cx="103" cy="103" r="103" transform="translate(111 179)" fill="url(#radial-gradient-3)"/>
+    <text id="_600_km" data-name="600
+km" transform="translate(167 252)" fill="#fff" font-size="40" font-family="MuseoSans-300, 'Museo Sans \33 00'" font-weight="300"><tspan x="-36.9" y="38">600</tspan><tspan fill="#878787" font-size="20"><tspan x="-14.18" y="67">km</tspan></tspan></text>
+    <path id="Ellipse_7" data-name="Ellipse 7" d="M95.371-1.5h.407A1.5,1.5,0,0,1,97.272.007a1.5,1.5,0,0,1-1.5,1.494h-.4A1.5,1.5,0,0,1,94.129.841a1.5,1.5,0,0,1-1.225.691l-.394.011A1.5,1.5,0,0,1,90.965.088,1.5,1.5,0,0,1,92.42-1.456l.407-.011a1.5,1.5,0,0,1,1.281.659A1.5,1.5,0,0,1,95.371-1.5Zm8.389.364q.066,0,.132.006l.4.036a1.5,1.5,0,1,1-.273,2.988l-.392-.035a1.5,1.5,0,0,1,.129-2.994Zm-19.272.25A1.5,1.5,0,0,1,84.656,2.1l-.391.045a1.5,1.5,0,1,1-.351-2.979l.4-.047A1.517,1.517,0,0,1,84.489-.886Zm27.6.846a1.508,1.508,0,0,1,.263.023l.4.072a1.5,1.5,0,0,1-.535,2.952l-.388-.069a1.5,1.5,0,0,1,.259-2.977ZM76.2.429a1.5,1.5,0,0,1,.3,2.97l-.386.08A1.5,1.5,0,1,1,75.5.541l.4-.082A1.507,1.507,0,0,1,76.2.429Zm44.088,1.358a1.5,1.5,0,0,1,.392.052l.392.107a1.5,1.5,0,1,1-.794,2.893l-.379-.1a1.5,1.5,0,0,1,.39-2.949Zm-52.233.685a1.5,1.5,0,0,1,.428,2.938l-.377.113a1.5,1.5,0,1,1-.87-2.871l.389-.117A1.5,1.5,0,0,1,68.049,2.471Zm60.237,1.861a1.5,1.5,0,0,1,.518.093l.381.141a1.5,1.5,0,0,1-1.047,2.811l-.369-.137a1.5,1.5,0,0,1,.518-2.908Zm-68.17.9a1.5,1.5,0,0,1,.555,2.894l-.365.146a1.5,1.5,0,0,1-1.121-2.783l.377-.151A1.5,1.5,0,0,1,60.116,5.228Zm75.916,2.349a1.494,1.494,0,0,1,.639.144l.367.174a1.5,1.5,0,0,1-1.292,2.708l-.356-.169a1.5,1.5,0,0,1,.641-2.857Zm-83.574,1.1a1.5,1.5,0,0,1,.677,2.839l-.351.178a1.5,1.5,0,0,1-1.363-2.673l.362-.184A1.494,1.494,0,0,1,52.459,8.676Zm91,2.817a1.493,1.493,0,0,1,.756.206l.35.206a1.5,1.5,0,1,1-1.526,2.583l-.34-.2a1.5,1.5,0,0,1,.759-2.795ZM45.136,12.786a1.5,1.5,0,0,1,.793,2.775l-.334.208A1.5,1.5,0,1,1,44,13.227l.345-.215A1.493,1.493,0,0,1,45.136,12.786Zm105.379,3.262a1.493,1.493,0,0,1,.867.277l.331.236A1.5,1.5,0,1,1,149.966,19l-.32-.229a1.5,1.5,0,0,1,.87-2.723ZM38.2,17.525a1.5,1.5,0,0,1,.9,2.7l-.314.237a1.5,1.5,0,0,1-1.81-2.392l.324-.244A1.493,1.493,0,0,1,38.2,17.525ZM157.142,21.2a1.494,1.494,0,0,1,.971.358l.309.264a1.5,1.5,0,0,1-1.954,2.277l-.3-.256a1.5,1.5,0,0,1,.973-2.642ZM31.713,22.853a1.5,1.5,0,0,1,1,2.617l-.293.263a1.5,1.5,0,1,1-2.012-2.225l.3-.272A1.5,1.5,0,0,1,31.713,22.853Zm131.58,4.068a1.5,1.5,0,0,1,1.068.447l.285.29a1.5,1.5,0,1,1-2.145,2.1l-.276-.281a1.5,1.5,0,0,1,1.068-2.553ZM25.714,28.728a1.5,1.5,0,0,1,1.1,2.525l-.268.288a1.5,1.5,0,0,1-2.2-2.04l.277-.3A1.5,1.5,0,0,1,25.714,28.728ZM168.92,33.153a1.5,1.5,0,0,1,1.157.544l.258.314a1.5,1.5,0,1,1-2.32,1.9l-.25-.3a1.5,1.5,0,0,1,1.155-2.456ZM20.252,35.106a1.5,1.5,0,0,1,1.18,2.425l-.242.31A1.5,1.5,0,0,1,18.82,36l.25-.32A1.5,1.5,0,0,1,20.252,35.106ZM173.98,39.854a1.5,1.5,0,0,1,1.237.65l.23.335a1.5,1.5,0,1,1-2.478,1.691l-.223-.325a1.5,1.5,0,0,1,1.234-2.351ZM15.369,41.937a1.5,1.5,0,0,1,1.256,2.318l-.214.33a1.5,1.5,0,1,1-2.522-1.625l.221-.341A1.5,1.5,0,0,1,15.369,41.937Zm163.065,5.037a1.5,1.5,0,0,1,1.307.762l.2.354a1.5,1.5,0,0,1-2.617,1.466l-.193-.343a1.5,1.5,0,0,1,1.3-2.239ZM11.1,49.171a1.5,1.5,0,0,1,1.323,2.2l-.184.348a1.5,1.5,0,1,1-2.655-1.4l.19-.359A1.5,1.5,0,0,1,11.1,49.171Zm171.138,5.287a1.5,1.5,0,0,1,1.367.88l.167.37a1.5,1.5,0,0,1-2.736,1.23l-.162-.359a1.5,1.5,0,0,1,1.365-2.121ZM7.494,56.752a1.5,1.5,0,0,1,1.381,2.085l-.153.363a1.5,1.5,0,1,1-2.768-1.157l.158-.375A1.5,1.5,0,0,1,7.494,56.752Zm177.882,5.5a1.5,1.5,0,0,1,1.415,1l.134.383a1.5,1.5,0,0,1-2.835.982l-.13-.371a1.5,1.5,0,0,1,1.415-2ZM4.568,64.624A1.5,1.5,0,0,1,6,66.584l-.12.375a1.5,1.5,0,1,1-2.86-.907l.124-.387A1.5,1.5,0,0,1,4.568,64.624Zm183.238,5.663a1.5,1.5,0,0,1,1.453,1.131q.05.2.1.395a1.5,1.5,0,0,1-2.911.727q-.048-.191-.1-.382a1.5,1.5,0,0,1,1.455-1.87ZM2.351,72.724a1.5,1.5,0,0,1,1.464,1.832q-.043.192-.086.384A1.5,1.5,0,0,1,.8,74.29q.044-.2.089-.4A1.5,1.5,0,0,1,2.351,72.724Zm187.162,5.785a1.5,1.5,0,0,1,1.479,1.26q.032.2.064.4a1.5,1.5,0,0,1-2.963.467q-.031-.195-.062-.389a1.5,1.5,0,0,1,1.483-1.74ZM.861,80.988a1.5,1.5,0,0,1,1.488,1.7q-.026.2-.052.39A1.5,1.5,0,1,1-.677,82.69q.026-.2.054-.4A1.5,1.5,0,0,1,.861,80.988ZM190.49,86.851a1.5,1.5,0,0,1,1.494,1.391q.015.2.029.4a1.5,1.5,0,0,1-2.993.205q-.013-.2-.028-.392a1.5,1.5,0,0,1,1.387-1.6C190.416,86.852,190.453,86.851,190.49,86.851ZM.1,89.352l.071,0A1.5,1.5,0,0,1,1.6,90.922q-.009.2-.017.393a1.5,1.5,0,1,1-3-.127q.009-.2.018-.405A1.5,1.5,0,0,1,.1,89.352Zm190.629,5.895h.022a1.5,1.5,0,0,1,1.479,1.521q0,.2-.007.406a1.5,1.5,0,1,1-3-.055q0-.2.006-.393A1.5,1.5,0,0,1,190.733,95.247ZM.079,97.751a1.5,1.5,0,0,1,1.5,1.44q.008.2.017.393a1.5,1.5,0,1,1-3,.132q-.009-.2-.017-.405A1.5,1.5,0,0,1,.018,97.753Zm190.169,5.878a1.517,1.517,0,0,1,.153.008,1.5,1.5,0,0,1,1.341,1.644q-.021.2-.042.4a1.5,1.5,0,0,1-2.983-.316q.021-.2.041-.392A1.5,1.5,0,0,1,190.248,103.629ZM.781,106.119a1.5,1.5,0,0,1,1.486,1.309q.025.2.051.391a1.5,1.5,0,0,1-2.974.394q-.027-.2-.053-.4a1.5,1.5,0,0,1,1.49-1.691Zm188.251,5.819a1.5,1.5,0,0,1,1.475,1.783q-.038.2-.077.4a1.5,1.5,0,0,1-2.944-.577q.038-.193.075-.386A1.5,1.5,0,0,1,189.032,111.938ZM2.215,114.392a1.5,1.5,0,0,1,1.464,1.179q.042.192.085.384a1.5,1.5,0,0,1-2.928.655q-.044-.2-.088-.4a1.5,1.5,0,0,1,1.467-1.822Zm184.873,5.715a1.5,1.5,0,0,1,1.443,1.912q-.056.2-.112.391a1.5,1.5,0,1,1-2.881-.836q.055-.189.109-.378A1.5,1.5,0,0,1,187.088,120.107Zm-182.714,2.4A1.5,1.5,0,0,1,5.8,123.558l.119.375a1.5,1.5,0,0,1-2.858.912l-.123-.387a1.5,1.5,0,0,1,1.431-1.95Zm180.053,5.564a1.5,1.5,0,0,1,1.4,2.038l-.147.379a1.5,1.5,0,0,1-2.8-1.088l.142-.367A1.5,1.5,0,0,1,184.428,128.071ZM7.245,130.4a1.5,1.5,0,0,1,1.386.925l.152.363a1.5,1.5,0,0,1-2.766,1.161l-.157-.375A1.5,1.5,0,0,1,7.245,130.4Zm173.827,5.37a1.5,1.5,0,0,1,1.346,2.16l-.179.364a1.5,1.5,0,0,1-2.689-1.331l.174-.353A1.5,1.5,0,0,1,181.072,135.769ZM10.8,138a1.5,1.5,0,0,1,1.33.805l.183.349a1.5,1.5,0,0,1-2.653,1.4l-.189-.36A1.5,1.5,0,0,1,10.8,138Zm166.247,5.136a1.5,1.5,0,0,1,1.282,2.276l-.211.347a1.5,1.5,0,0,1-2.561-1.563l.2-.336A1.5,1.5,0,0,1,177.049,143.14ZM15.018,145.267a1.5,1.5,0,0,1,1.264.691l.213.331a1.5,1.5,0,1,1-2.519,1.629l-.22-.342a1.5,1.5,0,0,1,1.261-2.31Zm157.375,4.861a1.5,1.5,0,0,1,1.209,2.386l-.241.327a1.5,1.5,0,0,1-2.414-1.782l.233-.317A1.5,1.5,0,0,1,172.393,150.128Zm-152.537,2a1.5,1.5,0,0,1,1.188.583l.241.311a1.5,1.5,0,0,1-2.366,1.844l-.249-.321a1.5,1.5,0,0,1,1.186-2.417Zm147.285,4.55a1.5,1.5,0,0,1,1.128,2.488l-.268.305a1.5,1.5,0,0,1-2.248-1.986l.26-.3A1.5,1.5,0,0,1,167.141,156.681ZM25.277,158.545a1.5,1.5,0,0,1,1.1.483l.268.289a1.5,1.5,0,1,1-2.2,2.044l-.276-.3a1.5,1.5,0,0,1,1.1-2.517Zm136.059,4.205a1.5,1.5,0,0,1,1.038,2.583l-.294.28a1.5,1.5,0,1,1-2.066-2.175l.285-.272A1.5,1.5,0,0,1,161.337,162.75Zm-130.1,1.71a1.494,1.494,0,0,1,1.009.39l.292.264a1.5,1.5,0,1,1-2.009,2.228l-.3-.273a1.5,1.5,0,0,1,1.009-2.61Zm123.785,3.828a1.5,1.5,0,0,1,.94,2.67l-.317.254a1.5,1.5,0,0,1-1.868-2.347l.308-.246A1.494,1.494,0,0,1,155.023,168.288ZM37.694,169.831a1.493,1.493,0,0,1,.907.306l.314.238a1.5,1.5,0,1,1-1.806,2.4l-.324-.245a1.5,1.5,0,0,1,.909-2.694Zm110.556,3.421a1.5,1.5,0,0,1,.834,2.748l-.338.225a1.5,1.5,0,0,1-1.655-2.5l.328-.218A1.493,1.493,0,0,1,148.25,173.252ZM44.6,174.616a1.493,1.493,0,0,1,.8.231l.334.209a1.5,1.5,0,1,1-1.589,2.545l-.344-.216a1.5,1.5,0,0,1,.8-2.769Zm96.472,2.986a1.5,1.5,0,0,1,.721,2.816l-.357.194A1.5,1.5,0,1,1,140,177.975l.346-.188A1.493,1.493,0,0,1,141.067,177.6ZM51.89,178.776a1.493,1.493,0,0,1,.684.166l.351.179a1.5,1.5,0,1,1-1.358,2.675l-.362-.185a1.5,1.5,0,0,1,.686-2.835Zm81.639,2.527a1.5,1.5,0,0,1,.6,2.875l-.372.162a1.5,1.5,0,0,1-1.19-2.754l.361-.157A1.5,1.5,0,0,1,133.529,181.3Zm-74.007.973a1.5,1.5,0,0,1,.564.111l.365.147a1.5,1.5,0,1,1-1.117,2.784l-.377-.152a1.5,1.5,0,0,1,.565-2.89Zm66.172,2.045a1.5,1.5,0,0,1,.476,2.923l-.386.128a1.5,1.5,0,0,1-.941-2.849l.374-.124A1.5,1.5,0,0,1,125.695,184.321Zm-58.26.765a1.5,1.5,0,0,1,.439.066l.377.114a1.5,1.5,0,0,1-.865,2.872L67,188.02a1.5,1.5,0,0,1,.438-2.935Zm50.189,1.548a1.5,1.5,0,0,1,.347,2.959l-.4.094a1.5,1.5,0,0,1-.685-2.921l.383-.091A1.5,1.5,0,0,1,117.623,186.633Zm-42.059.55a1.506,1.506,0,0,1,.311.033l.385.081a1.5,1.5,0,1,1-.608,2.938l-.4-.083a1.5,1.5,0,0,1,.308-2.968Zm33.813,1.038a1.5,1.5,0,0,1,.216,2.984l-.4.058a1.5,1.5,0,1,1-.424-2.97l.389-.056A1.512,1.512,0,0,1,109.377,188.222Zm-25.528.332a1.517,1.517,0,0,1,.181.011l.39.046a1.5,1.5,0,0,1-.346,2.98l-.4-.048a1.5,1.5,0,0,1,.177-2.989Zm17.175.524a1.5,1.5,0,0,1,.086,3l-.406.023a1.5,1.5,0,1,1-.163-3l.394-.022Zm-8.8.114h.05l.394.012a1.5,1.5,0,1,1-.085,3l-.407-.012a1.5,1.5,0,0,1,.048-3Z" transform="translate(118.773 186.773)" fill="url(#linear-gradient-9)"/>
+    <path id="Ellipse_9" data-name="Ellipse 9" d="M134,3a131.985,131.985,0,0,0-26.4,2.661A130.265,130.265,0,0,0,60.759,25.371,131.391,131.391,0,0,0,13.293,83.01,130.319,130.319,0,0,0,5.661,107.6a132.307,132.307,0,0,0,0,52.809,130.265,130.265,0,0,0,19.709,46.837A131.391,131.391,0,0,0,83.01,254.707a130.319,130.319,0,0,0,24.586,7.632,132.307,132.307,0,0,0,52.809,0,130.265,130.265,0,0,0,46.837-19.709,131.392,131.392,0,0,0,47.465-57.639,130.319,130.319,0,0,0,7.632-24.586,132.307,132.307,0,0,0,0-52.809,130.265,130.265,0,0,0-19.709-46.837A131.392,131.392,0,0,0,184.99,13.293,130.319,130.319,0,0,0,160.4,5.661,131.985,131.985,0,0,0,134,3m0-3A134,134,0,1,1,0,134,134,134,0,0,1,134,0Z" transform="translate(80 148)" fill="url(#linear-gradient-10)"/>
+    <path id="Polygon_2" data-name="Polygon 2" d="M9.273,0l9.273,11.454H0Z" transform="matrix(-0.629, -0.777, 0.777, -0.629, 104.97, 375.521)" fill="#1c0df3"/>
+    <text id="BATTERY" transform="translate(164 225)" fill="#0d3ff3" font-size="14" font-family="MuseoSans-700, 'Museo Sans \37 00'" font-weight="700"><tspan x="-30.058" y="13">BATTERY</tspan></text>
+    <line id="Linie_26" data-name="Linie 26" x2="41" transform="translate(194.5 341)" fill="none" stroke="#0d38f3" stroke-linecap="round" stroke-width="3"/>
+  </g>
+</svg>
