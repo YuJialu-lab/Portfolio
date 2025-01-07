@@ -45,7 +45,7 @@ window.onload = function (e) {
     const documents = [{
             name: "cv and skills",
             icon: "me.svg",
-            url: "../cv",
+            url: "https://yujialu-lab.github.io/Portfolio/cv/",
         },
         {
             name: "send email",
