@@ -45,7 +45,7 @@ window.onload = function (e) {
     const documents = [{
             name: "cv and skills",
             icon: "me.svg",
-            url: "https://lu.ldoerr.de/about/",
+            url: "/portfolio",
         },
         {
             name: "send email",
