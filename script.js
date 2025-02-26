@@ -4,7 +4,7 @@ window.onload = function (e) {
             title: "Portfolio",
             image: ["more.jpg", "more.jpg"],
             description: "Seleccion of works, featuring UI Design. Get to know me!",
-            url: "/portfolio",
+            url: "https://yujialu-lab.github.io/Portfolio/portfolio/",
             button: "enter",
             class: "",
             target: ""
