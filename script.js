@@ -11,7 +11,7 @@ window.onload = function (e) {
         },
         {
             title: "Daily UI",
-            image: ["music.gif", "music.gif"],
+            image: ["music-app-animate2", "music-app-animate2"],
             description: "Daily UI Challenge progress.",
             url: "/works",
             button: "enter",
